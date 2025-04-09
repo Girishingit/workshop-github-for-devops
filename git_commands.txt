@@ -5,3 +5,6 @@ git commit -m
 git restore 
 git remote add origin https://github.com/Girishingit/workshop-github-for-devops.g…
 git remote
+
+
+This is some new changes by Girish Patil
