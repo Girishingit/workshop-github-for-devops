@@ -1,0 +1,2 @@
+This file is create for Branch master.
+For creating a pull request to show that merging is success.
